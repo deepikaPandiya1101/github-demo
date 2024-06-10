@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Parallel Test Suite" parallel="Methods" thread-count="2">
+  <test name="Test1">
+    <classes>
+      <class name="TestNgFetures.ParallelTesting"/>
+
+    </classes>
+  </test> <!-- Test -->
+  
+ 
+  
+</suite> <!-- Suite -->
